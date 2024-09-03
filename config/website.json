@@ -1,7 +1,7 @@
 {
 	"base": {
 		"app_name": "chenHen",
-		"web_host": "https://www.fre123.com",
+		"web_host": "https://www.chenhen.us.kg",
 		"logo": "https://img.fre123.com/i/2023/11/25/65619e8022505.png"
 	},
 	"seo": {
@@ -32,21 +32,7 @@
 			"is_show": true,
 			"group": {
 				"name": "热点榜单",
-				"url": "https://www.fre123.com/news",
-				"children": [
-					{
-						"name": "新闻热榜",
-						"url": "https://www.fre123.com/news"
-					},
-					{
-						"name": "技术热榜",
-						"url": "https://www.fre123.com/tech"
-					},
-					{
-						"name": "技术周刊",
-						"url": "https://www.fre123.com/weekly"
-					}
-				]
+				"url": "https://xw.chenhen.us.kg/",
 			}
 		}
 	},
