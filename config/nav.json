@@ -8,40 +8,22 @@
 				"tab_name": "新闻热点",
 				"upper_right_corner": {
 					"title": "热榜资讯汇总>>>",
-					"url": "https://www.fre123.com/news"
+					"url": "https://xw.chenhen.us.kg/"
 				},
 				"details": [
 					{
-						"title": "FRE123 新闻热榜",
-						"ori_url": "https://www.fre123.com/news",
-						"url": "https://www.fre123.com/news",
+						"title": "新闻热榜",
+						"ori_url": "https://xw.chenhen.us.kg/",
+						"url": "https://xw.chenhen.us.kg/",
 						"icon": "https://img.fre123.com/i/2024/01/18/65a81a0370405.jpg",
-						"description": "FRE123 新闻热榜汇集各平台技术热点资讯，助您快速了解实时资讯",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "FRE123 技术热榜",
-						"ori_url": "https://www.fre123.com/tech",
-						"url": "https://www.fre123.com/tech",
-						"icon": "https://img.fre123.com/i/2024/01/18/65a819ea7d80f.jpg",
-						"description": "FRE123 技术热榜汇集各平台技术热点资讯，助您快速了解实时资讯",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "FRE123 精选周刊",
-						"ori_url": "https://www.fre123.com/weekly",
-						"url": "https://www.fre123.com/weekly",
-						"icon": "https://img.fre123.com/i/2024/01/18/65a81a125a343.jpg",
-						"description": "这是老胡储物柜为您收集的前后端技术周刊精选推荐信息流。这里提供技术思考、开发指南、编程实践，开源项目，架构探索以及最新的周刊信息流。深耕你的编程知识，提升你的技术实力",
+						"description": "汇集各平台技术热点资讯，助您快速了解实时资讯",
 						"suffix": false,
 						"is_show": true
 					},
 					{
 						"title": "微博热搜",
 						"ori_url": "https://s.weibo.com/top/summary",
-						"url": "https://www.fre123.com/news/weibo",
+						"url": "https://xw.chenhen.us.kg/#/list?type=weibo",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27339b3b8.png",
 						"description": "与世界分享你的瞬间 ",
 						"suffix": false,
@@ -50,7 +32,7 @@
 					{
 						"title": "今日头条",
 						"ori_url": "https://www.toutiao.com/",
-						"url": "https://www.fre123.com/news/toutiao",
+						"url": "https://xw.chenhen.us.kg/#/list?type=toutiao&page=1",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f276c1711f.png",
 						"description": "个性化资讯推荐",
 						"suffix": false,
@@ -59,52 +41,25 @@
 					{
 						"title": "抖音热点",
 						"ori_url": "https://www.douyin.com/hot",
-						"url": "https://www.fre123.com/news/douyin",
+						"url": "https://xw.chenhen.us.kg/#/list?type=douyin&page=1",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27e4dccaa.png",
 						"description": "发现身边的新鲜事",
 						"suffix": false,
 						"is_show": true
 					},
 					{
-						"title": "腾讯新闻",
-						"ori_url": "https://news.qq.com/",
-						"url": "https://www.fre123.com/news/teng_xun_xin_wen",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f2809bfa0f.png",
-						"description": "中国最大新闻平台",
-						"suffix": false,
-						"is_show": true
-					},
-					{
 						"title": "微信热文",
 						"ori_url": "https://tophub.today/n/WnBe01o371",
-						"url": "https://www.fre123.com/news/douywei_xin_re_wenin",
+						"url": "https://xw.chenhen.us.kg/#/list?type=weread&page=1",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f469aecf87.png",
 						"description": "热门文章与资讯推荐",
 						"suffix": false,
 						"is_show": false
 					},
 					{
-						"title": "ReadHub",
-						"ori_url": "https://readhub.cn/",
-						"url": "https://www.fre123.com/news/readhub",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f410bee9c5.png",
-						"description": "全球科技新闻聚合",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "抽屉热榜",
-						"ori_url": "https://dig.chouti.com/",
-						"url": "https://www.fre123.com/news/chouti",
-						"icon": "https://img.fre123.com/i/2023/12/07/65716d24e228f.png",
-						"description": "热门内容，一网打尽",
-						"suffix": false,
-						"is_show": true
-					},
-					{
 						"title": "百度热搜",
 						"ori_url": "https://top.baidu.com/board",
-						"url": "https://www.fre123.com/news/baidu",
+						"url": "https://xw.chenhen.us.kg/#/list?type=baidu&page=1",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27c6a0285.png",
 						"description": "百度热搜以数亿用户海量的真实数据为基础，通过专业的数据挖掘方法，计算关键词的热搜指数，旨在建立权威、全面、热门、时效的各类关键词排行榜，引领热词阅读时代。",
 						"suffix": false,
@@ -113,7 +68,7 @@
 					{
 						"title": "新浪新闻",
 						"ori_url": "https://www.sina.com.cn/",
-						"url": "https://www.fre123.com/news/xin_lang_xin_wen",
+						"url": "https://xw.chenhen.us.kg/#/list?type=weibo&page=1",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27339b3b8.png",
 						"description": "中文新闻综合门户",
 						"suffix": false,
@@ -122,7 +77,7 @@
 					{
 						"title": "网易热榜",
 						"ori_url": "https://news.163.com/",
-						"url": "https://www.fre123.com/news/163_news",
+						"url": "https://xw.chenhen.us.kg/#/list?type=netease-news&page=1",
 						"icon": "https://img.fre123.com/i/2023/12/07/6570a591763a0.jpg",
 						"description": "新闻与资讯平台",
 						"suffix": false,
@@ -131,7 +86,7 @@
 					{
 						"title": "知乎精选",
 						"ori_url": "https://www.zhihu.com/billboard",
-						"url": "https://www.fre123.com/news/zhihu_jing_xuan",
+						"url": "https://xw.chenhen.us.kg/#/list?type=zhihu&page=1",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f2f1be65bf.png",
 						"description": "知识问答与热门话题",
 						"suffix": false,
@@ -140,7 +95,7 @@
 					{
 						"title": "哔哩哔哩",
 						"ori_url": "https://www.bilibili.com/v/popular/all/",
-						"url": "https://www.fre123.com/news/bilibili",
+						"url": "https://xw.chenhen.us.kg/#/list?type=bilibili&page=1",
 						"icon": "https://img.fre123.com/i/2023/12/06/656f51c78c7db.png",
 						"description": "弹幕视频，二次元文化",
 						"suffix": false,
@@ -149,25 +104,16 @@
 					{
 						"title": "36氪",
 						"ori_url": "https://36kr.com/",
-						"url": "https://www.fre123.com/news/36kr",
+						"url": "https://xw.chenhen.us.kg/#/list?type=36kr&page=1",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27b9ecfcb.png",
 						"description": "创业与科技新闻，洞察商业价值",
 						"suffix": false,
 						"is_show": true
 					},
 					{
-						"title": "爱范儿",
-						"ori_url": "https://www.ifanr.com/",
-						"url": "https://www.fre123.com/news/ifanr",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f28335cfd0.png",
-						"description": "科技与数码生活，热爱创新",
-						"suffix": false,
-						"is_show": false
-					},
-					{
 						"title": "IT之家",
 						"ori_url": "https://www.ithome.com/list/",
-						"url": "https://www.fre123.com/news/ithome",
+						"url": "https://xw.chenhen.us.kg/#/list?type=ithome&page=1",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f2746dca0f.png",
 						"description": "科技新闻与评测专家",
 						"suffix": false,
@@ -176,295 +122,11 @@
 					{
 						"title": "澎湃新闻",
 						"ori_url": "https://www.thepaper.cn/",
-						"url": "https://www.fre123.com/news/thepaper",
+						"url": "https://xw.chenhen.us.kg/#/list?type=thepaper&page=1",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27acb144c.png",
 						"description": "独立、深度、观点",
 						"suffix": false,
 						"is_show": false
-					},
-					{
-						"title": "虎嗅资讯",
-						"ori_url": "https://www.huxiu.com/article/",
-						"url": "https://www.fre123.com/news/huxiu",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f277d17855.png",
-						"description": "商业观察与创新洞察",
-						"suffix": false,
-						"is_show": true
-					}
-				]
-			},
-			{
-				"upper_right_corner": {
-					"title": "技术资讯汇总>>>",
-					"url": "https://www.fre123.com/tech"
-				},
-				"tab_name": "技术资讯",
-				"details": [
-					{
-						"title": "Hacker News",
-						"ori_url": "https://news.ycombinator.com/",
-						"url": "https://www.fre123.com/tech/ycombinator",
-						"icon": "https://img.fre123.com/i/2023/12/12/657738fb0da11.png",
-						"description": "程序员和创业者的热门新闻网站",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "Github",
-						"ori_url": "https://github.com/trending",
-						"url": "https://www.fre123.com/tech/github_trending",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773615a03a5.png",
-						"description": "全球最大的代码托管平台，共享开源项目",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "Stack Overflow",
-						"ori_url": "https://stackoverflow.com/",
-						"url": "https://www.fre123.com/tech/stackoverflow",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773ed583ad3.png",
-						"description": "开发者问答社区，解决编程难题",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "V2EX",
-						"ori_url": "https://www.v2ex.com/?tab=hot",
-						"url": "https://www.fre123.com/tech/v2ex",
-						"icon": "https://img.fre123.com/i/2023/12/12/657733214ec3f.png",
-						"description": "程序员社区，分享与讨论",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "DEV",
-						"ori_url": "https://dev.to/",
-						"url": "https://www.fre123.com/tech/dev_to",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773605a7d3f.png",
-						"description": "开发者社区，探索编程世界",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "掘金",
-						"ori_url": "https://juejin.cn/hot/articles",
-						"url": "https://www.fre123.com/tech/juejin_trending_all_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/12/6577329c73a89.png",
-						"description": "技术社区，发现优质内容",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "博客园",
-						"ori_url": "https://www.cnblogs.com/aggsite/topviews",
-						"url": "https://www.fre123.com/tech/cnblogs_topviews",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773305be49d.png",
-						"description": "程序员社区，知识交流平台",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "CSDN",
-						"ori_url": "https://blog.csdn.net/rank/list",
-						"url": "https://www.fre123.com/tech/csdnnews",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773339badda.png",
-						"description": "IT技术社区，知识传播平台",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "开源中国",
-						"ori_url": "https://www.oschina.net/news",
-						"url": "https://www.fre123.com/tech/oschina_news",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773357604e7.png",
-						"description": "开源技术社区，共享创新精神",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "Segmentfault",
-						"ori_url": "https://segmentfault.com/news",
-						"url": "https://www.fre123.com/tech/segmentfault_news",
-						"icon": "https://img.fre123.com/i/2023/12/12/6577354f59e5d.png",
-						"description": "开发者问答社区，解决问题互助",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "InfoQ",
-						"ori_url": "https://www.infoq.cn/",
-						"url": "https://www.fre123.com/tech/infoq",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773588b7b52.png",
-						"description": "技术资讯平台，深度洞察行业动态",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "机器之心",
-						"ori_url": "https://www.jiqizhixin.com/",
-						"url": "https://www.fre123.com/tech/jiqizhixin",
-						"icon": "https://img.fre123.com/i/2023/12/12/657741a779223.png",
-						"description": "人工智能科技媒体，探索智能世界",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "量子位",
-						"ori_url": "https://www.qbitai.com/category/%e8%b5%84%e8%ae%af",
-						"url": "https://www.fre123.com/tech/qbitai",
-						"icon": "https://img.fre123.com/i/2023/12/12/6577368408291.png",
-						"description": "科技资讯平台，前沿科技动态解读",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "湾区日报",
-						"ori_url": "https://www.wanqu.co/",
-						"url": "https://www.fre123.com/tech/wanqu",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773eb7cded4.png",
-						"description": "科技创新资讯，关注湾区科技动态",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "小众软件",
-						"ori_url": "https://www.appinn.com/",
-						"url": "https://www.fre123.com/tech/appinn",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773dd163b37.jpeg",
-						"description": "探索独特应用，发现小众精品软件",
-						"suffix": false,
-						"is_show": true
-					}
-				]
-			},
-			{
-				"upper_right_corner": {
-					"title": "精选周刊大全>>>",
-					"url": "https://www.fre123.com/weekly"
-				},
-				"tab_name": "技术周刊",
-				"details": [
-					{
-						"title": "阮一峰的周刊",
-						"url": "https://www.fre123.com/weekly/ruanyifeng_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/07/6570a316b2e86.jpeg",
-						"description": "这里记录每周值得分享的科技内容，周五发布",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "老胡的信息周刊",
-						"url": "https://www.fre123.com/weekly/howie6879_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/07/6570a33fcae2f.jpeg",
-						"description": "记录老胡每周看到的优质资源，包含项目、软件、资料、网站",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "HelloGitHub",
-						"url": "https://www.fre123.com/weekly/hellogithub",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f22c38002e.png",
-						"description": "「HelloGitHub 月刊」分享 GitHub 上有趣、入门级的开源项目，每月 28 号发布最新一期",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "独立开发变现周刊",
-						"url": "https://www.fre123.com/weekly/ezindie",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f421fa8770.png",
-						"description": "独立开发变现相关的技术、工具、交流等，彼此促进成长，快速落地各自的产品，实现持续盈利",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "二丫讲梵",
-						"url": "https://www.fre123.com/weekly/eryajf",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f225463402.png",
-						"description": "周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "AIGC Weekly",
-						"url": "https://www.fre123.com/weekly/aigc_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f1e30d4262.ico",
-						"description": "每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "小棉袄的百味人生",
-						"url": "https://www.fre123.com/weekly/haikuoshijie",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f25ba8b44f.png",
-						"description": "小棉袄的博客，嗅觉浏览器、海阔视界开发者的博客",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "不死鸟月刊分享",
-						"url": "https://www.fre123.com/weekly/businiaofenxiang",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f21aa7baaf.png",
-						"description": "分享为王",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "1Link.Fun",
-						"url": "https://www.fre123.com/weekly/1link_fun",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f20f645b6e.png",
-						"description": "1Link.Fun 科技周刊，每周更新 10 条有趣的链接",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "Go语言爱好者周刊",
-						"url": "https://www.fre123.com/weekly/studygolang",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f227ae1a30.png",
-						"description": "记录每周值得分享的 Go 语言相关内容，周日发布",
-						"suffix": true,
-						"is_show": true
-					},
-
-					{
-						"title": "破茧日报",
-						"url": "https://www.fre123.com/weekly/guozh",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f2385d1ec1.jpeg",
-						"description": "破茧日报，老郭种树",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "老司机 iOS 周报",
-						"url": "https://www.fre123.com/weekly/lao_si_ji_ios_zhou_kan",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f228744f01.png",
-						"description": "对于 iOS 开发者有价值的信息",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "MDH 前端周刊",
-						"url": "https://www.fre123.com/weekly/mdh_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f234394894.png",
-						"description": "前端技术周刊",
-						"suffix": true,
-						"is_show": true
-					},
-
-					{
-						"title": "Python 潮流周刊",
-						"url": "https://www.fre123.com/weekly/pythoncat_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f23ae79f38.png",
-						"description": "Python技术周刊",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "Web 技术周刊",
-						"url": "https://www.fre123.com/weekly/fe_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f2543dff40.png",
-						"description": "汇总平时看到的好文章，前端技术 & 产品研发为主",
-						"suffix": true,
-						"is_show": true
 					}
 				]
 			}
@@ -1009,654 +671,6 @@
 						"url": "https://xunlei8.cc/",
 						"icon": "https://img.fre123.com/i/2024/01/23/65aec5d189579.png",
 						"description": "迅雷电影天堂 - 全球领先的高清电影下载平台，以丰富的内容、极致的下载体验、满足您最新电影迅雷下载和BT下载需求。每日更新720p、1080p，蓝光高清电影下载资源。",
-						"suffix": true,
-						"is_show": true
-					}
-				]
-			}
-		]
-	},
-	{
-		"group_name": "动漫番剧",
-		"style": 1,
-		"style_des": "标准风格",
-		"tab_list": [
-			{
-				"tab_name": "番剧资源",
-				"upper_right_corner": {
-					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
-				},
-				"details": [
-					{
-						"title": "FRE123 动漫搜索引擎",
-						"url": "https://www.fre123.com/anime/s",
-						"icon": "https://img.fre123.com/i/2023/11/25/65619e8022505.png",
-						"description": "FRE123 动漫搜索引擎为您提供各类动漫番剧在线观看下载资源，追番找动漫必备工具，还为您提供最新番剧时间表，直接搜索关键词即可找到对应的漫画番剧播放源。",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "AGE 动漫",
-						"url": "https://www.agedm.org/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b8413511a.png",
-						"description": "专业的在线动漫网站，动漫免费在线观看，高品质画质，实时更新，追番利器!",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "樱花动漫",
-						"url": "https://www.iyhdmm.com",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b85abc481.png",
-						"description": "专注动漫的门户网站",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "怡萱动漫",
-						"url": "http://yxdm.tv",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b8916d0e7.jpg",
-						"description": "动漫番剧观看下载网站",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "E站",
-						"url": "https://www.ezdmw.site/",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579a72d755f8.png",
-						"description": "E站弹幕网是国内专业的二次元（ACG）社区，在线动漫&下载",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "动漫岛",
-						"url": "http://www.dmand5.com/",
-						"icon": "https://img.fre123.com/i/2023/12/18/657fe5c5cca6e.png",
-						"description": "动漫岛为大家提供新番连载大量完结日漫热门国漫剧场动漫等动漫的在线观看",
-						"suffix": true,
-						"is_show": false
-					},
-					{
-						"title": "异世界动漫",
-						"url": "https://www.mikudm.com/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b8a56cb6e.png",
-						"description": "动漫网站，新番国漫都有，打开会自动跳转到最新域名",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "风车动漫",
-						"url": "https://dm530.org/",
-						"icon": "https://img.fre123.com/i/2024/02/25/65dac06cb64d2.jpg",
-						"description": "上万集高清晰画质的在线动漫，观看完全免费、无须注册",
-						"suffix": true,
-						"is_show": false
-					},
-					{
-						"title": "D站",
-						"url": "https://www.5dm.link/",
-						"icon": "https://img.fre123.com/i/2024/03/11/65ee581dbd63e.ico",
-						"description": "五弹幕/5DM，原名dilili/嘀哩哩弹幕网，被广大网友称为d站。以传递正能量为宗旨,致力于打造真正的二次元理想乡。嘀哩嘀哩弹幕网",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "蜜糖动漫",
-						"url": "https://www.mitang.tv/",
-						"icon": "https://img.fre123.com/i/2024/02/21/65d60ba7f0742.webp",
-						"description": "提供极致纯净的看番体验，卓越的画质，细腻而清晰。",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "狗番",
-						"url": "https://www.dogsfun.fun/",
-						"icon": "https://img.fre123.com/i/2024/02/21/65d60c3cd4dd1.jpg",
-						"description": "高清番剧在线看",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "c站",
-						"url": "https://www.clicli.cc/",
-						"icon": "https://img.fre123.com/i/2024/02/21/65d60d2338c5f.jpg",
-						"description": "clicli弹幕网，简称c站或clicli,主打游戏原创和推番~",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "宫下动漫",
-						"url": "https://gxdm01.org/",
-						"icon": "https://img.fre123.com/i/2024/02/21/65d60d7b0641e.jpg",
-						"description": "提供海量的动漫资源，包括日本、美国、中国大陆等地的优秀动漫作品，满足不同用户对动漫作品的需求",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "AnFuns",
-						"url": "https://www.anfuns.cc/",
-						"icon": "https://img.fre123.com/i/2024/02/21/65d60dd327866.ico",
-						"description": "AnFuns动漫,本站提供1080P 720P BDRIP动漫资源收集整理,专门为您提供海量的高质量高画质的在线动漫资源的网站门户.",
-						"suffix": true,
-						"is_show": false
-					},
-
-					{
-						"title": "bimi 动漫",
-						"url": "http://www.bimiacg10.net/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579d63c89c74.png",
-						"description": "哔咪哔咪为您将动漫番剧一网打尽",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "呵呵动漫",
-						"url": "https://www.hehe.la/",
-						"icon": "https://img.fre123.com/i/2024/02/21/65d60bfad2bbc.ico",
-						"description": "提供免费、高质量无广告的新番、老番在线观看！",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "动漫线上看",
-						"url": "https://anime1.me/",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579a789c981f.webp",
-						"description": "最新番剧追更，在线观看",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "Myself 動漫",
-						"url": "https://myself-bbs.com",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579ddcd6d2a6.jpeg",
-						"description": "动漫在线观看",
-						"suffix": true,
-						"is_show": false
-					},
-					{
-						"title": "妮可动漫",
-						"url": "http://v2.nicotv.xyz/",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579a29596e6f.png",
-						"description": "免费在线动漫观看，全集高清番剧",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "AnFuns 动漫",
-						"url": "https://www.anfuns.cc",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b8afa7d2a.png",
-						"description": "在线动漫资源门户",
-						"suffix": true,
-						"is_show": false
-					},
-
-					{
-						"title": "girigiri爱动漫",
-						"url": "https://anime.girigirilove.com/",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579d1f8bb534.png",
-						"description": "在线追番播放网站",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "动漫巴士",
-						"url": "https://dm84.xyz/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579dbf7843df.png",
-						"description": "最新好看的动漫免费在线观看",
-						"suffix": true,
-						"is_show": true
-					},
-
-					{
-						"title": "稀饭动漫",
-						"url": "https://dick.xfani.com/",
-						"icon": "https://img.fre123.com/i/2023/12/18/657fe8995019f.png",
-						"description": "免费高清动漫分享",
-						"suffix": true,
-						"is_show": false
-					},
-					{
-						"title": "去看吧",
-						"url": "https://qkan8.com/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579dc905f000.png",
-						"description": "提供最新的日本动漫在线观看",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "橘子动漫",
-						"url": "https://www.mgnacg.com/",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579d039032ea.jpg",
-						"description": "清晰画质动漫电影在线观看",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "Nicohub",
-						"url": "https://nicohub.cc/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65982cbc83377.png",
-						"description": "简洁的在线番剧&漫画&轻小说一体化的网站",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "NT 动漫 🪜",
-						"url": "https://www.ntdm.tv/",
-						"icon": "https://img.fre123.com/i/2024/01/05/6598237865cd8.png",
-						"description": "专注的动漫的网站，立志为广大动漫迷提供一个在线看动漫的好平台。",
-						"suffix": true,
-						"is_show": false
-					}
-				]
-			},
-			{
-				"tab_name": "番剧下载",
-				"upper_right_corner": {
-					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
-				},
-				"details": [
-					{
-						"title": "蜜柑计划",
-						"url": "https://mikanime.tv/",
-						"icon": "https://img.fre123.com/i/2023/12/13/65799a4e99649.ico",
-						"description": "新一代的动漫下载站",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "爱恋动漫BT下载",
-						"url": "https://kisssub.org/",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579a0dbd7368.ico",
-						"description": "爱恋BT分享站，动画/漫画/游戏/动漫音乐/片源",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "末日动漫资源库",
-						"url": "https://share.acgnx.se/",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579d4b28abac.ico",
-						"description": "ACG资源检索下载",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "漫猫动漫",
-						"url": "https://comicat.org/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579d9c1844d0.jpg",
-						"description": "动画/漫画/游戏/动漫音乐/片源BT分享下载",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "airAnime",
-						"url": "https://air.tls.moe/#/home",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579a8317c4a1.jpg",
-						"description": "轻量的聚合番剧搜索工具",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "菲特动漫",
-						"url": "https://fitacg.com/",
-						"icon": "https://img.fre123.com/i/2024/02/21/65d60e8d532aa.png",
-						"description": "支持动画,新番,动画,音乐,日剧等各类动漫资源下载",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "幻樱字幕组",
-						"url": "http://www.hysub.net/",
-						"icon": "https://img.fre123.com/i/2024/02/21/65d60f500066a.ico",
-						"description": "幻樱字幕组",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "Browse :: Nyaa",
-						"url": "https://nyaa.si/",
-						"icon": "https://img.fre123.com/i/2023/12/13/65799e1f1ad15.png",
-						"description": "一个番剧下载资源网站",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "漫猫动漫BT下载",
-						"url": "https://comicat.org/",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a7b8e692125.ico",
-						"description": "漫猫BT分享站，动画～漫画～游戏～动漫音乐～片源（RAW）等资源BT下载～欢迎各大字幕组及个人发布入住",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "动漫花园",
-						"url": "https://dmhy.org",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b8ca8d9db.png",
-						"description": "动漫花园是一个动漫爱好者交流的平台，提供最及时全面的动漫资源",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "萌番组",
-						"url": "https://bangumi.moe/",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579a462818f1.jpg",
-						"description": "番剧种子资源下载网站",
-						"suffix": true,
-						"is_show": true
-					}
-				]
-			},
-			{
-				"tab_name": "漫画阅读",
-				"upper_right_corner": {
-					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
-				},
-				"details": [
-					{
-						"title": "包子漫画",
-						"url": "https://cn.baozimh.com",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b8d372fc7.png",
-						"description": "包子漫画为您提供优质的漫画阅读体验。",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "极速漫画",
-						"url": "https://www.1kkk.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/6598656fdbd9b.png",
-						"description": "原创国漫,日本漫画,港台漫画,韩国漫画,欧美漫画,好漫画,为看漫画的人而生。热门漫画：火影忍者、海贼王1061、死神、一拳超人216、古惑仔88、山海逆战906等",
-						"suffix": true,
-						"is_show": false
-					},
-					{
-						"title": "SF漫画",
-						"url": "https://manhua.sfacg.com/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579ddcf60133.png",
-						"description": "老牌漫画网站，提供海量漫画,更新最快在线漫画欣赏、无弹窗清爽阅读环境",
-						"suffix": true,
-						"is_show": false
-					},
-					{
-						"title": "爱优漫",
-						"url": "https://www.iyouman.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65986383a3965.png",
-						"description": "爱优漫带来热门的斗破苍穹漫画免费阅读,绝世唐门漫画,舞动乾坤漫画,神医嫡女漫画,妖神记漫画免费阅读，飒漫画，飒漫乐画，神漫，漫画世界，漫画show，漫画party等好看的国漫杂志连载，还有当下热门的斗罗大陆漫画免费阅读。",
-						"suffix": true,
-						"is_show": false
-					},
-					{
-						"title": "漫漫漫画",
-						"url": "https://www.manmanapp.com/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579ddf1ddd5d.png",
-						"description": "国内二次元漫画平台，连载大量原创正版国漫。",
-						"suffix": true,
-						"is_show": false
-					},
-					{
-						"title": "动漫屋",
-						"url": "https://www.dm5.com/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579d8d2d628d.png",
-						"description": "好漫画,为看漫画的人而生",
-						"suffix": true,
-						"is_show": false
-					},
-					{
-						"title": "yymanhua",
-						"url": "https://www.yymanhua.com/",
-						"icon": "https://img.fre123.com/i/2024/01/15/65a4260f700e0.ico",
-						"description": "yymanhua是全網資源最全的在線漫畫、日本漫畫閱讀平臺。擁有時下最熱門的日漫作品：鬼滅之刃、一拳超人244、海賊王1103、火影忍者、死神等。超快的更新速度，第一時間為你奉上極致的閱讀體驗。",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "漫畫狗",
-						"url": "https://dogemanga.com/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579d8ec4fc48.png",
-						"description": "網路漫畫上傳分享平台",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "漫画DB",
-						"url": "https://www.manhuadb.com/",
-						"icon": "https://img.fre123.com/i/2024/01/18/65a81b3456df1.ico",
-						"description": "漫画DB是全网最专业的日本漫画大全资料库。网站上的所有漫画均可免费在线看，同时每部漫画都有丰富的资料，包括登场人物、用语、设定、改编作品及创作幕后等深层的内容。",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "大树漫画",
-						"url": "https://www.dashumanhua.com/",
-						"icon": "https://img.fre123.com/i/2024/01/15/65a426b0960dd.ico",
-						"description": "大树漫画免费提供最新的连载漫画、完结漫画在线下拉式观看。想看优质人气漫画，就来大树漫画！",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "139漫画",
-						"url": "https://139mh.com/",
-						"icon": "https://img.fre123.com/i/2024/02/25/65dab0f734119.ico",
-						"description": "优质的漫画阅读体验,提供海量漫画,更新最快在线漫画欣赏",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "动漫之家",
-						"url": "https://www.idmzj.com/category",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579de3cda8bf.jpg",
-						"description": "国内最全最专业的在线漫画、原创漫画、最好看的动漫网站，每周更新各种原创漫画、日本动漫，动画片大全、漫画大全",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "新新漫画",
-						"url": "https://www.77mh.nl/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579d9092cf1b.png",
-						"description": "第一时间更新。漫画资源相当丰富，只有你想不到的，没有看不到的，每天更新百部漫画。",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "动漫啦",
-						"url": "https://www.dongman.la/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579d920340ea.png",
-						"description": "原盒子漫画，10年经典漫画站点，全新改版归来，无广告的清新漫画站点，依旧为您提供最新最全的漫画。",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "动漫狂",
-						"url": "https://www.cartoonmad.com/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579d98e01f1b.png",
-						"description": "動漫狂 - 免費動畫漫畫分享社群 ! cartoonmad - 免費卡通動漫畫,分享下載與在線上觀看 !",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "Kox",
-						"url": "https://kox.moe/",
-						"icon": "https://img.fre123.com/i/2024/02/23/65d77937d595d.ico",
-						"description": "高清Kindle格式漫画下载，支持推送漫画到kindle设备。",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "漫画柜",
-						"url": "https://www.manhuagui.com/",
-						"icon": "https://img.fre123.com/i/2024/01/18/65a81b8a17df5.jpg",
-						"description": "漫画柜网站拥有海量的国产漫画、日韩漫画、欧美漫画等丰富漫画资源，免费为漫画迷提供及时的更新、清新的界面和舒适的体验,努力打造属于漫画迷的漫画乐园。看漫画热门漫画,飒漫乐画,妃夕妍雪,晨曦公主247即将更新",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "风之动漫",
-						"url": "https://www.fffdm.com/",
-						"icon": "https://img.fre123.com/i/2023/12/26/6589e4d95be07.jpeg",
-						"description": "FFF风之动漫成立于2020年,是一个在为大中华区动漫爱好者分享动漫、游戏、轻小说等的多次元动漫站点。",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "komiic 漫画",
-						"url": "https://komiic.com/",
-						"icon": "https://img.fre123.com/i/2023/12/26/6589e4f0c0c8c.png",
-						"description": "资源丰富，定期更新",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "奇漫屋",
-						"url": "http://qmanwu2.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/6598629864a0c.png",
-						"description": "奇漫屋为您推荐当前最热门，全网最新最全漫画，漫画免费在线观看，经典漫画，2018热门漫画大全，2019最新漫画，下拉式漫画免费观看。最快更新漫画。",
-						"suffix": true,
-						"is_show": false
-					},
-					{
-						"title": "神漫画",
-						"url": "https://www.taomanhua.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/659864c6558df.png",
-						"description": "神采飞扬、漫画天堂。神漫画免费提供绝世唐门漫画、神印王座漫画、妖神记漫画和元尊漫画免费阅读，在线看神漫漫画就来神漫画！",
-						"suffix": true,
-						"is_show": false
-					},
-					{
-						"title": "古风漫画网",
-						"url": "https://www.gufengmh.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/6598651b03887.png",
-						"description": "古风漫画网专注古风漫画，言情漫画，少女爱情等类型的漫画。古风漫画网第一时间更新天才小毒妃漫画，大角虫漫画，王牌校草漫画，指染成婚漫画等好看的漫画，看古风、少女爱情等类型漫画最好的网站！",
-						"suffix": true,
-						"is_show": true
-					},
-
-					{
-						"title": "看漫画",
-						"url": "https://www.kanman.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/659865edb3fd6.png",
-						"description": "看漫画致力于打造国内知名的正版漫画阅读平台，拥有偷星九月天、斗罗大陆、斗破苍穹、浪漫传说、暴走邻家等大批优秀国产漫画的正版授权。",
-						"suffix": true,
-						"is_show": false
-					},
-					{
-						"title": "咚漫漫画",
-						"url": "https://dongmanmanhua.cn/",
-						"icon": "https://img.fre123.com/i/2024/01/06/659867081fdfa.jpg",
-						"description": "全球数字漫画服务平台，咚漫提供每日更新超过200个高清正版免费漫画，立志于为用户提供独家优质原创漫画，成为更适合二次元用户的漫画内容平台。",
-						"suffix": true,
-						"is_show": false
-					},
-					{
-						"title": "漫本",
-						"url": "https://www.manben.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/6598678d4eb92.png",
-						"description": "漫本是首个华人原创漫画分享平台，平台汇集了华人范围内最具潜力的创客、原创漫画精品及大量互联网发行渠道",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "吾爱看漫画",
-						"url": "https://5ikmh.ink/",
-						"icon": "https://img.fre123.com/i/2024/01/15/65a4243add32e.jpg",
-						"description": "有着专业的mobi，pdf格式漫画制作技术，做最好的漫画资源下载站，提供手机，电子书，平板电脑看漫画最佳阅读体验。本着充实个人生活，提高生活品质的理念，从诸多漫画中挑选出值得观看的经典漫画，本站宗旨：不求最多，只求最精。",
-						"suffix": true,
-						"is_show": false
-					},
-					{
-						"title": "漫画屋",
-						"url": "https://www.bq8.org/",
-						"icon": "https://img.fre123.com/i/2024/01/15/65a4252d09b96.ico",
-						"description": "笔趣吧漫画为您提供优质的漫画阅读体验，日本漫画,港台漫画,韩国漫画,欧美漫画,好漫画。热门漫画：火影忍者、海贼王、死神、一拳超人、古惑仔等漫画阅读网站，就在笔趣阁漫画",
-						"suffix": true,
-						"is_show": false
-					},
-
-					{
-						"title": "仙漫网",
-						"url": "https://www.gaonaojin.com/",
-						"icon": "https://img.fre123.com/i/2024/01/15/65a426e4277d6.ico",
-						"description": "仙漫网就是任性，最好看的免费漫画在线看，1万部万话涵括日本漫画，国产漫画等海内外知名外面，您也可以发表您的原创作品，我们将会为您推荐！",
-						"suffix": true,
-						"is_show": false
-					},
-					{
-						"title": "喵上漫画",
-						"url": "https://www.miaoshangmanhua.com/",
-						"icon": "https://img.fre123.com/i/2024/01/15/65a4271fb4b68.jpg",
-						"description": "喵上漫画网无弹窗广告的在线漫画阅读网站，喵上漫画为您提供优质的漫画阅读体验.",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "漫画之路",
-						"url": "https://www.manhualu.com/",
-						"icon": "https://img.fre123.com/i/2024/01/15/65a4275e22586.ico",
-						"description": "漫画之路每天更新最新漫画内容，免费在线漫画阅读，只为懂漫画的你而更新！",
-						"suffix": true,
-						"is_show": false
-					},
-					{
-						"title": "漫自由",
-						"url": "https://mhx12.com/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579d8b1dce35.png",
-						"description": "一個由漫畫愛好者維護的分享平台,提供高清mobi,epub格式漫畫下載",
-						"suffix": true,
-						"is_show": true
-					}
-				]
-			},
-			{
-				"tab_name": "动漫资讯",
-				"upper_right_corner": {
-					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
-				},
-				"details": [
-					{
-						"title": "Bangumi 番组计划",
-						"url": "https://bgm.tv/",
-						"icon": "https://img.fre123.com/i/2023/12/13/657999ff600a4.png",
-						"description": "专注于动漫、音乐、游戏领域，帮助你分享、发现与结识同好的ACG网络",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "BiliBili番剧",
-						"url": "https://www.bilibili.com/anime",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b84c2d200.png",
-						"description": "bilibili是国内知名的视频弹幕网站，这里有最及时的动漫新番，最棒的ACG氛围，最有创意的Up主。",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "AcFun",
-						"url": "https://www.acfun.cn/",
-						"icon": "https://img.fre123.com/i/2024/02/21/65d619ca74341.ico",
-						"description": "AcFun是国内首家弹幕视频网站，这里有全网独家动漫新番， 友好的弹幕氛围，有趣的UP主，好玩有科技感的虚拟偶像，年轻人都在用。",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "FRE123 2024年01月冬季新番表",
-						"url": "https://www.fre123.com/anime/s",
-						"icon": "https://img.fre123.com/i/2023/11/25/65619e8022505.png",
-						"description": "FRE123 动漫搜索引擎为您提供各类动漫番剧在线观看下载资源，追番找动漫必备工具，还为您提供2024最新番剧时间表，直接搜索关键词即可找到对应的漫画番剧播放源。",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "YuC's AnimeList",
-						"url": "https://yuc.wiki/",
-						"icon": "https://img.fre123.com/i/2023/12/13/65799b5609a6b.png",
-						"description": "新番信息资讯",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "动漫新番表",
-						"url": "https://xf.hmacg.cn/",
-						"icon": "https://img.fre123.com/i/2024/02/24/65da117e9d77a.ico",
-						"description": "由Hazx精心整理的新番表，详细展示本季度所有新番的播放时间与可观看站点。",
 						"suffix": true,
 						"is_show": true
 					}
